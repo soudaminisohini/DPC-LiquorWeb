@@ -1,0 +1,78 @@
+.nav-bar{
+    position: relative;
+    background-color: hsl(0, 0%, 0%);
+    background-size:auto;   
+}
+
+.Logo{
+    background-image: url("../../../public/Images/Final.png");
+    height: 100px;
+    width: 400px;
+}
+
+.nav-bar a:hover {
+    color: white;
+    filter: brightness(150%);
+}
+
+.link{
+    color: goldenrod;
+}
+
+.logout{
+    background-color: black;
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.logout:hover {
+    background-color: black;
+    color:aqua !important; 
+    border:2px solid aqua;
+}
+
+.home{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.home:hover {
+    color:aqua !important;   
+}
+
+.about{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.about:hover {
+    color:aqua !important;   
+}
+
+.login{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.login:hover {
+    border:2px solid aqua;
+    color:aqua !important;   
+}
+
+.menu{
+    color: gold;
+    font-size: 20px;
+}
+
+.menu:hover{
+    color:aqua !important; 
+}
+
+.contact{
+    color: goldenrod;
+    font-size: 20px;
+}
+
+.contact:hover{
+    color:aqua !important;
+}

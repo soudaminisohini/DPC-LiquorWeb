@@ -1,0 +1,56 @@
+.background-reg{
+    background-image: url("../../../public/Images/doorstep.webp");
+    height: 620px;
+    width: 100%;
+    background-size: cover;
+}
+/* .reg-image{
+    height: 420px; 
+    width: 50%;
+    float: right;
+    background-size: cover;
+    margin-bottom: 80px;
+} */
+
+.reg-form{
+    /* background-color: black; */
+    height: 400px;
+    width: 60%;
+    float: left;
+    border-radius: 20px;
+    border-left: 50px;
+    margin-left: 150px;
+    width: 40%;
+    height: 520px;
+    border:2px solid  aqua;
+    color:aqua !important;
+}
+
+input[type=text], input[type=email], input[type=password], select {
+  width: 100%;
+  padding: 8px 15px;
+  margin: 2px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  opacity: 0.7;
+  
+}
+
+input[type=submit] {
+  width: 50%;
+  /* background-color: #4CAF50;
+  color: aqua; */
+  padding: 10px 12px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: black;
+  font-size: large;
+}
+
+input[type=submit]:hover {
+  background-color: lightslategray;
+}

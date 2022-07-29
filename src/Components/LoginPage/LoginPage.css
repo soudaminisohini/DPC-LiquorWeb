@@ -1,0 +1,29 @@
+.background{
+    background-color: black;
+    height: 420px;
+    width: 100%;
+    background-size: cover;
+}
+.login-image{
+    background-image: url("../../../public/Images/11.jpg");
+    height: 420px; 
+    width: 40%;
+    float: left;
+    background-size: cover;
+}
+
+.login-form{
+    background-image: url("../../../public/Images/Brand.jpg");
+    /* background-color: black;
+    height: 420px;
+    width: 60%; */
+    float: right;
+    border-radius: 20px;
+    border-right: 50px;
+    margin-right: 120px;
+    width: 40%;
+    height: 400px;
+    border:2px solid  aqua;
+    color:aqua !important;
+    margin-left: 50px;
+}

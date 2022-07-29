@@ -1,0 +1,32 @@
+.body{
+    background-color: black ;
+    width: 100%;
+    height: 450px;
+}
+
+.leftbox iframe{
+    float: left;
+    background: black;
+    width: 40%;
+    height: 420px;
+}
+
+.middlebox{
+    float: left;
+    /* background: black; */
+    margin-left: 5px;
+    width: 25%;
+    height: 420px;
+    border:2px solid  aqua;
+}
+
+.rightbox{
+    background-image: url("../../../public/Images/Glass.jpg");
+    float: right;
+    width: 34%;
+    height: 420px;    
+}
+
+h5{
+    color: aqua;
+}

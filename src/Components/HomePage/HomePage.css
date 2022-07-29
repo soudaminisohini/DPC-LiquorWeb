@@ -1,0 +1,31 @@
+.home{
+    background-color: black;
+}
+.img-one{
+    /* background-image: url(E:\HTML\React\project-final\public\Images\wine2.jpg); */
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.img-two{
+    /* background-image: url(E:\HTML\React\project-final\public\Images\Jack2jpg.jpg); */
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+.img-three{
+    /* background-image: url(E:\HTML\React\project-final\public\Images\2.jpg); */
+    height: 850px;
+    width: 100%;
+    background-size: cover;
+}
+
+.img-four{
+    /* background-image: url(E:\HTML\React\project-final\public\Images\wine.jpg); */
+    height: 850px;
+    width: 100%;
+    background-size: cover;
+}

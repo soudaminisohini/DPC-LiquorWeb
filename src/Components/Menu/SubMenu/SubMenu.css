@@ -1,0 +1,10 @@
+.submenu{
+    background-image: url("../../../../public/Images/Alcohol-Brand-Marketing.jpg"); 
+    background-size: cover ; 
+    width: 100%;
+    height: 100%;
+}
+
+.text-center{
+    margin-left: 80px;
+}

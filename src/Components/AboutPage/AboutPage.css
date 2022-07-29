@@ -1,0 +1,42 @@
+.background-about {
+    background-color: black;
+}
+
+.image {
+    background-image: url("../../../public/Images/1.jpg");
+    height: 1000px;
+    width: 100%;
+    background-size: cover;
+}
+
+.logo {
+    height: 400px;
+    width: 50%;
+    float: left;
+    align-items: right;
+    background-position: center;
+    padding-top: 100px;
+}
+
+.heading {
+    background-color: transparent;
+    color: gold;
+}
+
+button {
+    width: 50%;
+    background-color: aqua;
+    color: aqua;
+    padding: 10px 12px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    color: black;
+    font-size: large;
+    font-weight: 500;
+}
+
+button:hover {
+    background-color: gold
+}

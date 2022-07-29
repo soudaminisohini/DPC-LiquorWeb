@@ -1,0 +1,190 @@
+{
+    "Different_Menu" :[
+        {
+            "Menu_id": "A1",
+            "Menu_name": "Whiskey",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"W1",
+                    "Sub_Menu_name":"Seagram's Blenders Pride Select Premium Whiskey",
+                    "Sub_Menu_image":"../../../../Images/brand-blenders-pride-rare-premium-whisky-lifestyle-original.webp",
+                    "Sub_Menu_description":"Blenders Pride, a blend of imported Scotch Malts & select Indian grain spirits is the result of over 150 years of Seagrams great tradition of blending fine whiskies. One of the top premium blended whiskies in India, Blenders Pride is a blend of Indian grain spirit and imported Scotch malts from Chivas Brothers. Launched in 1995, this smooth and smoky premium whisky benefits from Scotland’s long tradition of blending fine whiskies, tailored to the tastes of this nation of whisky enthusiasts.Blenders Pride has been part of Pernod Ricard since 2001."
+                },
+                {
+                    "Sub_Menu_id":"W2",
+                    "Sub_Menu_name":"Signature Premier Grain Whiskey",
+                    "Sub_Menu_image":"../../../../Images/Signature-Whiskey-Price-in-India.jpg",
+                    "Sub_Menu_description":"A Premium Whishey by Master Blender Caroline Martin."
+                },
+                {
+                    "Sub_Menu_id":"W3",
+                    "Sub_Menu_name":"Antiquity Blue Ultra Premium Whiskey",
+                    "Sub_Menu_image":"../../../../Images/ANTIQUITY-BLUE-WHISKY.jpg",
+                    "Sub_Menu_description":"Reimagine a timeless Whiskey."
+                },
+                {
+                    "Sub_Menu_id":"W4",
+                    "Sub_Menu_name":"Ballantine's Finest Blended Scotch Whiskey",
+                    "Sub_Menu_image":"../../../../Images/Ballantine's Finest Blended Scotch Whiskey.png",
+                    "Sub_Menu_description":"Ballantines oldest recipe with more than 40 malts and grains in this blend, carefully selected from 4 different iconic Scottish Regions."
+                }    
+            ]
+        },
+
+        {
+            "Menu_id": "A2",
+            "Menu_name": "Beer",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"B1",
+                    "Sub_Menu_name":"Corons Extra Premium Beer",
+                    "Sub_Menu_image":"../../../../Images/corona.jpg",
+                    "Sub_Menu_description":"The next time you want to relax, disconnect and take a break, Corona is the perfect partner. Naturally refreshing, this Cerveza has a superior taste profile from superior ingredients the finest-quality blend of filtered water, malted barley, hops, corn and yeast. Best served with a lime slice. In 1979, Corona Extra was introduced in the U.S. and quickly became synonymous with the American beach and barbecue lifestyle."
+                },
+                {
+                    "Sub_Menu_id":"B2",
+                    "Sub_Menu_name":"Carlsberg Premium Elephant Strong Beer",
+                    "Sub_Menu_image":"../../../../Images/carlsberg.jpg",
+                    "Sub_Menu_description":"Extra Strong Full Bodied Pilsner."
+                },
+                {
+                    "Sub_Menu_id":"B3",
+                    "Sub_Menu_name":"Budweider Magnum Beer",
+                    "Sub_Menu_image":"../../../../Images/BudMag03a.jpg",
+                    "Sub_Menu_description":" Discover Budweiser Beer, a flavorful American-Style lager. Find out our history, variety of beers, nutritional facts, and how to buy Budweiser online."
+                },
+                {
+                    "Sub_Menu_id":"B4",
+                    "Sub_Menu_name":"Kingfisher Ultra Lager Beer",
+                    "Sub_Menu_image":"../../../../Images/kingfisher_ultra.jpg",
+                    "Sub_Menu_description":"Kingfisher Ultra Lager Beer ... Our Master brewers have used the best barley and hops to create Kingfisher Ultra. A truly special brew for connoisseurs like you."
+                }    
+            ]
+        },
+
+        {
+            "Menu_id": "A3",
+            "Menu_name": "Vodka",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"V1",
+                    "Sub_Menu_name":"Magic Moments Pure Grain Vodka",
+                    "Sub_Menu_image":"../../../../Images/Magic.webp",
+                    "Sub_Menu_description":"Pure Grain Vodka"
+                },
+                {
+                    "Sub_Menu_id":"V2",
+                    "Sub_Menu_name":"Absolut Vodka",
+                    "Sub_Menu_image":"../../../../Images/abso.jpg",
+                    "Sub_Menu_description":"Absolut is the world's leading premium vodka brand made exclusively from natural ingredients, and dosen't contain any added sugar."
+                },
+                {
+                    "Sub_Menu_id":"V3",
+                    "Sub_Menu_name":"Smirnoff Triple Distilled Vodka",
+                    "Sub_Menu_image":"../../../../Images/smirnoff.jpg",
+                    "Sub_Menu_description":"Smirnoff No. 21 Vodka is the World's No. 1 Vodka. Our award-winning vodka has robust flavour with a dry finish for ultimate smoothness and clarity."
+                },
+                {
+                    "Sub_Menu_id":"V4",
+                    "Sub_Menu_name":"Magic Moments Verve Premium Vodka",
+                    "Sub_Menu_image":"../../../../Images/Verve-1.jpg",
+                    "Sub_Menu_description":"This is the only premium Vodka that comes with a unique, imported tamper-evident seal to ensure authenticity of its product."
+                }
+            ]
+        },
+
+        {
+            "Menu_id": "A4",
+            "Menu_name": "Gin",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"G1",
+                    "Sub_Menu_name":"Blue Lagoon Gin Orange",
+                    "Sub_Menu_image":"../../../../Images/BLUE-LAGOON.jpg",
+                    "Sub_Menu_description":"Blue lagoon gin orange has been artistically blended. It is a distilled alcoholic drink that derives its predominant flavour from juniper berries."
+                },
+                {
+                    "Sub_Menu_id":"G2",
+                    "Sub_Menu_name":"Greater Than London Dry Gin",
+                    "Sub_Menu_image":"../../../../Images/london.jpg",
+                    "Sub_Menu_description":"The only London dry gin made in India. Copper pot distilled with botanicals sourced from India and around the world. This gin has clean juniper and fresh lemon peel on the nose and a zing of ginger on the finish."
+                },
+                {
+                    "Sub_Menu_id":"G3",
+                    "Sub_Menu_name":"Hapusa Himalayan Dry Gin",
+                    "Sub_Menu_image":"../../../../Images/hapusa1.jpg",
+                    "Sub_Menu_description":"Distilled in India with foraged Himalayan Juniper and locally sourced botanicals, Hapusa is a gin that is uniquely Indian. "
+                },
+                {
+                    "Sub_Menu_id":"G4",
+                    "Sub_Menu_name":"Monkey 47 Schwarzwald Dry Gin",
+                    "Sub_Menu_image":"../../../../Images/Monkey.jpg",
+                    "Sub_Menu_description":"A batch distilled, handcrafted Schwarzwald Dry Gin that fuses British traditions, the exoticism of India, and the purity of the Black Forest with 47 botanicals."
+                }
+            ]
+        },
+
+        {
+            "Menu_id": "A5",
+            "Menu_name": "Wine",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"W1",
+                    "Sub_Menu_name":"Sensi Prosecco Gold 18k",
+                    "Sub_Menu_image":"../../../../Images/sensi_prosecco.jpg",
+                    "Sub_Menu_description":"18k is an exclusive line of luxary Prosecco variants from Sensi which has become iconic in the world of bubbles. Often rated as The Best Prosecco in Italy by esteemed wine critic, Luca Maroni."
+                },
+                {
+                    "Sub_Menu_id":"W2",
+                    "Sub_Menu_name":"Sensi Pinot Noir Rose 18k",
+                    "Sub_Menu_image":"../../../../Images/sensi-18k-Pinot-Noir-Rose-white.jpg",
+                    "Sub_Menu_description":"18k is an exclusive line of luxary Prosecco variants from Sensi which has become iconic in the world of bubbles. Often rated as The Best Prosecco in Italy by esteemed wine critic, Luca Maroni."
+                },
+                {
+                    "Sub_Menu_id":"W3",
+                    "Sub_Menu_name":"Bro Code Kraft Sekt 15 Wine",
+                    "Sub_Menu_image":"../../../../Images/Brocode.jpg",
+                    "Sub_Menu_description":"Bro Code Kraft Sekt is a sparkling wine. It is a traditional-method sparkling wines made with Chardonnay and Pinot Noir. It is fresh, fruity and simple wine. This wine has a golden hue color and is buddly. It is often used as an apéritif before a meal, with dessert, or as a refreshing drink between meals."
+                },
+                {
+                    "Sub_Menu_id":"W4",
+                    "Sub_Menu_name":"Sula Chenin Blanc",
+                    "Sub_Menu_image":"../../../../Images/sula.jpg",
+                    "Sub_Menu_description":"A refreshing and easy-drinking white wine, with some residual sugar, which gives it a slight sweetness, smartly balanced by its delightful acidity."
+                }
+            ]
+        },
+        {
+            "Menu_id": "A6",
+            "Menu_name": "Rum",
+            "Sub_Menu": [
+                {
+                    "Sub_Menu_id":"R1",
+                    "Sub_Menu_name":"Old Monk Matured XXX Premium Rum Very Old Vatted",
+                    "Sub_Menu_image":"../../../../Images/old-monk.jpg",
+                    "Sub_Menu_description":"Old Monk Rum is an iconic vatted Indian dark rum, launched in 1954. It is a dark rum with a distinct vanilla flavour, with an alcohol content of 42.8%."
+                },
+                {
+                    "Sub_Menu_id":"R2",
+                    "Sub_Menu_name":"Bacardi Carta Blanca Superior White Rum",
+                    "Sub_Menu_image":"../../../../Images/BACARDI-CARTA-BLANCA-CLASSIC-SUPERIOR-WHITE-RUM.jpg",
+                    "Sub_Menu_description":"Bacardi Carta Blanca is blended by expert using a single strain of yeast & charcol filtration for smoothness."
+                },
+                {
+                    "Sub_Menu_id":"R3",
+                    "Sub_Menu_name":"Barcardi Limon Original Citrus Rum",
+                    "Sub_Menu_image":"../../../../Images/BACARDI-LIMON-ORIGINAL-CITRUS-RUM.jpg",
+                    "Sub_Menu_description":"It is a combination of Bacardi Rum and the natural flavours of various citrus fruits."
+                },
+                {
+                    "Sub_Menu_id":"R4",
+                    "Sub_Menu_name":"Old Smuggler Matured XXX Rum",
+                    "Sub_Menu_image":"../../../../Images/old-smuggler.jpg",
+                    "Sub_Menu_description":"Old Smuggler Rum is for those who prefer their drinks neat or with a splash of ice, warmed between the hands."
+                }
+            ]
+        }
+    ]
+}
+
+
